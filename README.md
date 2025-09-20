@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-**🌐 [Try Live Demo](https://messiahravant-ship-it.github.io/nabhadigital/)** - Experience the platform in action!
+**🌐 [Try Live Demo](https://puvishaa13-create.github.io/NABHA/)** - Experience the platform in action!
 
 > **Note:** The demo showcases the offline-capable web version with full multi-language support and gamified learning features.
 
@@ -132,7 +132,7 @@ Many government schools in Nabha and nearby rural areas lack updated computer in
 ## 📁 Project Resources
 
 ### 🌐 Live Demo
-- **[Web Platform Demo](https://messiahravant-ship-it.github.io/nabhadigital/)** - Interactive demo showcasing all features
+- **[Web Platform Demo](https://puvishaa13-create.github.io/NABHA/)** - Interactive demo showcasing all features
 
 ### 📊 Presentation
 - [View Project Presentation](./SIH2025-nabhaeducation.pptx) - Comprehensive project overview and demo
@@ -179,7 +179,7 @@ flutter run
 
 ## 🎮 Demo Features to Explore
 
-When you visit the **[Live Demo](https://messiahravant-ship-it.github.io/nabhadigital/)**, try these key features:
+When you visit the **[Live Demo](https://puvishaa13-create.github.io/NABHA/)**, try these key features:
 
 1. **🌐 Language Switching** - Toggle between Punjabi, Hindi, and English
 2. **🎯 Gamification** - Complete a lesson to earn points and badges  
@@ -201,7 +201,7 @@ This project was developed for the Government of Punjab hackathon focusing on Sm
 
 ## 📞 Contact
 
-For questions, suggestions, or collaboration opportunities regarding this rural education initiative, please reach out to me at email:messiahravant@gmail.com.
+For questions, suggestions, or collaboration opportunities regarding this rural education initiative, please reach out to me at email:puvishaa13@gmail.com
 
 ## 🏆 Hackathon Achievement
 
@@ -222,6 +222,6 @@ This project is developed for educational purposes as part of the Government of 
 **Building bridges between rural students and digital education opportunities** 🌟
 
 ### Quick Links
-- 🌐 **[Live Demo](https://messiahravant-ship-it.github.io/nabhadigital/)**
+- 🌐 **[Live Demo](https://puvishaa13-create.github.io/NABHA/)**
 - 📊 **[Presentation](./SIH2025-nabhaeducation.pptx)**  
 - 🛠️ **[Source Code](./)**
